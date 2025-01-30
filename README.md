@@ -22,8 +22,7 @@ Además, tengo experiencia en integración de sistemas, modelado de bases de dat
 - **Desarrollo de videojuegos en GMS2 con IA y física avanzada** 🎮  
 - **Microfrontend para interacción con APIs en Next.js** 🚀  
 
-## 📫 Contáctame  
-📩 [Tu Correo]  
-🔗 [LinkedIn](#) | [GitHub](#) | [Twitter](#)  
+## 📫 Contáctame   
+🔗 [LinkedIn](#) | [GitHub](#)
 
 ¡Siempre abierto a nuevos retos y colaboraciones tecnológicas! 🚀  
