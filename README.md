@@ -1,7 +1,3 @@
-Aquí tienes un README modificado para reflejar mejor tu perfil y experiencia:  
-
----
-
 # 💻 Hola, soy Favio 👋  
 
 ## 🚀 Sobre mí  
